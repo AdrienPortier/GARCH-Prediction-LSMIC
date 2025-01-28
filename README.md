@@ -1,7 +1,7 @@
 # GARCH-Prediction-LSMIC
 
 ## Introduction
-This project was carried out as part of the **LSM Investment Club** (LSMIC), in collaboration with **Jonathan Kojovi** and under the supervision of a project manager. It is part of the **quant team** activities, whose main goal is the management of a portfolio exceeding €25,000.
+This project was carried out as part of the **LSM Investment Club** (LSMIC), in collaboration with **Jonathan Kojovi** and under the supervision of a project manager. It is part of the **quantitative team** activities, whose main goal is the management of a portfolio exceeding €25,000.
 
 The objective of this project was to present prediction tools to club members. Although the models explored, such as **GARCH**, are more suitable for short-term forecasts than the long-term strategies favored by the club, we also examined metrics like **Value at Risk (VaR)** and **Expected Shortfall (ES)** to quantify risks.
 
