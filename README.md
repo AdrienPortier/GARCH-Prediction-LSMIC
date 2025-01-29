@@ -1,5 +1,5 @@
 # GARCH-Prediction-LSMIC
-
+Risk Quantification and Volatility Forecasting Using GARCH Models in Python
 ## Introduction
 This project was carried out as part of the **LSM Investment Club** (LSMIC), in collaboration with **Jonathan Kojovi** and under the supervision of a project manager. It is part of the **quantitative team** activities, whose main goal is the management of a portfolio exceeding €25,000.
 
